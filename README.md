@@ -22,7 +22,7 @@
 <br />
 
 ### <img src="https://www.codewars.com/assets/logos/logo-61192cf7c75904d495e7ad69695fbf0bffd965bc3e17ac60f6c6b475304db09d.svg" height="22" alt="Codewars"> Codewars
-[![Codewarrior Profile Badges](https://www.codewars.com/users/Nish0v/badges/small)](https://www.codewars.com/users/Nish0v)
+[![Codewarrior Profile Badges](https://www.codewars.com/users/Nish0v/badges/small)](https://www.codewars.com/users/Nish0v)  
 
 
-
+### <img src="https://cdn.worldvectorlogo.com/logos/telegram.svg" alt="GitHub" height="22">&nbsp; Телеграм для связи: [@nishov](https://t.me/nishov)
